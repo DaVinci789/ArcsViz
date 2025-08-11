@@ -399,7 +399,7 @@ int main(void)
 		murl_handle_input(ctx);
 		mu_begin(ctx);
 
-		if (mu_begin_window(ctx, "Arcz", mu_rect(20, 20, 1600, 1000)))
+		if (mu_begin_window_ex(ctx, "Arcz", mu_rect(20, 20, 1600, 1000), MU_OPT_NOCLOSE))
 		{
 			int *mechanics_widths = new(&perm, mechanics_len + 1, int);
 			mechanics_widths[0] = 100;
