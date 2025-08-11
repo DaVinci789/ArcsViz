@@ -1,0 +1,1837 @@
+Steward,A,Mechanics used,ID,Notes
+Rules for You,Imperial Authority,Tax,F102,"Tax any imperial city
+Ignoring presence and truce laws"
+,,City,,
+,,Empire,,
+,,Imperial Laws,,
+,,,F103,
+,Dealmakers,Secure,,Giving people Guild Cards
+,,Influence,,
+,,Guild Card,,
+,,,,
+,Consolidate Your Imperial Power,Winning Ambitions,F101B,
+,,First Regent,,
+,,Power,,
+,,,,
+Rules for Everyone,Imperial Protectors,Blight,F108,Entices Imperial expansion
+,,Crisis,,
+,,Empire,,
+,,,,
+,Imperial Quorum,Edict,F113,Imperial infighting
+,,Govern the Imperial Reach,,
+,,First Regent,,
+,,City,,
+,,Starport,,
+,,,,
+,Hunter Squads,Outlaw,F107,Makes being an Outlaw suck
+,,Battle,,
+,,Dice,,
+,,Weapon,,
+,,Ship,,
+,,,,
+,Tax Collectors,Outlaw,F106,Makes being an Outlaw suck
+,,Tax,,
+,,,,
+,Council Intrigue,Imperial Council,CC12,Harder to control Council
+,,Influence Agent,,
+,,,,
+,Expand the Empire,First Regent,F112B,
+,,Cluster,,
+,,Empire,,
+,,Control,,
+,,,,
+,Ensure the Emperor’s Tribute,Resource,F112B,
+,,First Regent,,
+,,Imperial Trust,,
+,,,,
+Control Over,Imperial Sponsor,Undeclared Ambition,F123,
+,,Resource,,
+,,Imperial Trust,,
+,,Declare Ambition,,
+,,Power,,
+,,Second Place,,
+,,First Regent,,
+,,Imperial Regent,,
+,,,,
+,Govern with Authority,Outlaw,F124,Outlaws are influenced by governing too
+,,,,
+,Grand Ambition 1,Imperial Regent,F122B,
+,,Empire,,
+,,Outlaw,,
+,,City,,
+,,,,
+,Grand Ambition 2,First Regent,F122B,
+,,Imperial Trust,,
+,,Resource,,
+,,Chapter,,
+,,,,
+,,,,
+Founder,A,,,
+Rules for You,Parade Fleets,Declare Ambition,F202,
+,,Ship,,
+,,Free City,,
+,,Imperial Regent,,
+,,Outlaw,,
+,,,,
+,Inspire Confidence in the Cause,Outlaw,F201B,
+,,Winning Ambitions,,
+,,,,
+,Defy the Empire’s Grip,Outlaw,F201B,
+,,System,,
+,,Control,,
+,,,,
+Rules for Everyone,Book of Liberation,Harm,F204,
+,,Free Building,,
+,,Build,,
+,,Empire,,
+,,Control,,
+,,Outrage,,
+,,,,
+,Political Intrigue,Favor,F205,
+,,Rival,,
+,,,,
+,Construction Union,Action Card,F208,
+,,Construction Suit,,
+,,,,
+,Founder of the Commonwealth,Ambition Marker,F213,
+,,Declare Ambition,,
+,,Ambition Box,,
+,,,,
+,Commonwealth Ambition,Ambition Marker,F214,
+,,Winning Ambitions,,
+,,Second Place,,
+,,Power,,
+,,,,
+,Call for Armistice,Power,F215,
+,,Court Card,,
+,,Attach,,
+,,,,
+,Armistice,Court,F217,
+,,Harm,,
+,,Free Building,,
+,,Influence Agent,,
+,,Court Card,,
+,,,,
+,Member of the Commonwealth,Free Building,F218,
+,,Empire,,
+,,Loyal,,
+,,Piece,,
+,,Edict,,
+,,Harm,,
+,,Free City,,
+,,Ambition,,
+,,Title,,
+,,,,
+Control Over,Spirit of Freedom,Secure,F224,
+,,Court,,
+,,Influence Agent,,
+,,Rival,,
+,,,,
+,Mass Call for Armistice,Power,F226,
+,,Attach,,
+,,Court,,
+,,,,
+,Freedom Fighters,Battle,F227,
+,,Free City,,
+,,Destroy,,
+,,Damage,,
+,,Rival,,
+,,Imperial Fleet,,
+,,Imperial Laws,,
+,,System,,
+,,,,
+,Secure Freedom for All 1,Winning Ambitions,F225B,
+,,Free City,,
+,,Empire,,
+,,Title,,
+,,,,
+,Secure Freedom for All 2,Winning Ambitions,F225B,
+,,Free City,,
+,,Empire,,
+,,Title,,
+,,,,
+Magnate,A,,,
+Rules for You,Merchant League,Crisis,F302,
+,,Declare Ambition,,
+,,Resource,,
+,,Frozen Resource,,
+,,Summit,,
+,,Negotiation Action,,
+,,,,
+,Magnate Act I Objective 1,Summit,F301B,
+,,Favor,,
+,,Resource,,
+,,,,
+,Magnate Act I Objective 1,Summit,F301B,
+,,Resource,,
+,,,,
+Rules for Everyone,Elder Broker,City,F304,CHECK
+,,Control,,
+,,Fuel,,
+,,Material,,
+,,Resource,,
+,,Rival,,
+,,Tax,,
+,,Weapon,,
+,,,,
+,Relic Fence,Relic,F305,CHECK
+,,Resource,,
+,,,,
+,Prison Wardens,Build,F306,CHECK
+,,Captives,,
+,,Control,,
+,,Influence,,
+,,Move,,
+,,Resource,,
+,,Ship,,
+,,System,,
+,,Trophies,,
+,,,,
+,Material Cartel,Material,F307,CHECK
+,,Rival,,
+,,,,
+,Fuel Cartel,Fuel,F308,CHECK
+,,Rival,,
+,,,,
+,Weapon Cartel,Rival,F309,CHECK
+,,Weapon,,
+,,,,
+,Psionic Cartel,Psionic,F310,CHECK
+,,Rival,,
+,,,,
+,Relic Cartel,Relic,F311,CHECK
+,,Rival,,
+,,,,
+,Magnate Act II Objective 1,Resource Supply,F312B,
+,,,,
+,Magnate Act II Objective 2,Chapter,F312B,
+,,Edict,,
+,,,,
+,Material Monopoly,Material,F313,
+,,Summit,,
+,,Resource Supply,,
+,,,,
+,Fuel Monopoly,Fuel,F314,
+,,Summit,,
+,,Resource Supply,,
+,,,,
+,Relic Monopoly,Relic,F315,
+,,Summit,,
+,,Resource Supply,,
+,,,,
+,Psionic Monopoly,Psionic,F316,
+,,Summit,,
+,,Resource Supply,,
+,,,,
+,Weapon Monopoly,Summit,F317,
+,,Weapon,,
+,,Resource Supply,,
+,,,,
+,Gain Monopolies,Ambition Box,F318,CHECK
+,,Ambitions,,CHECK
+,,Fate,,CHECK
+,,Move,,CHECK
+,,Resource,,CHECK
+,,Scrap,,CHECK
+,,Summit,,CHECK
+,,,,
+,Monopoly Consent,Call to Order,F319,CHECK
+,,Favor,,CHECK
+,,Resource,,CHECK
+,,Summit,,CHECK
+,,,,
+,War Profiteering,Act,F320,CHECK
+,,Ambition Box,,CHECK
+,,Resource,,CHECK
+,,Trophies,,CHECK
+,,Warlord Ambition,,CHECK
+,,Weapon,,CHECK
+,,,,
+Control Over,Prospectors,Build,F322,CHECK
+,,Loyal,,CHECK
+,,Piece,,CHECK
+,,Planet,,CHECK
+,,,,
+,Extortion,Crisis,F323,CHECK
+,,Resource,,CHECK
+,,Rival,,CHECK
+,,Secure,,CHECK
+,,Crisis,,CHECK
+,,Resource,,CHECK
+,,Rival,,CHECK
+,,Secure,,CHECK
+,,,,
+,Magnate Grand Ambition,Resource,F325B,
+,,Scrap,,
+,,,,
+,Closed Economy,Control,F326A,CHECK
+,,Empire,,CHECK
+,,Loyal,,CHECK
+,,Outlaw,,CHECK
+,,Tax,,CHECK
+,,,,
+,Open Economy,Loyal,F326B,CHECK
+,,Outlaw,,CHECK
+,,Rival,,CHECK
+,,Tax,,CHECK
+,,,,
+Advocate,A,,,
+Rules for You,Advocate Act I Objective,,F401B,
+,,Guild Card,,
+,,Power,,
+,,Prelude Action,,
+,,,,
+,Guild Investigators,Agent,F402,
+,,Guild Card,,
+,,Move,,
+,,Influence Agent,,
+,,Attach,,
+,,,,
+,Guild Overseers,Court Deck,F403,
+,,Guild Card,,
+,,Power,,
+,,Winning Ambitions,,
+,,Second Place,,
+,,Secure,,
+,,,,
+Rules for Everyone,Material Liaisons,Agent,F405,CHECK
+,,Build,,CHECK
+,,Material,,CHECK
+,,Tycoon Ambition,,CHECK
+,,,,CHECK
+,Fuel Liaisons,Agent,F406,CHECK
+,,Fuel,,CHECK
+,,Move,,CHECK
+,,Tycoon Ambition,,CHECK
+,,,,CHECK
+,Weapons Liaisons,Agent,F407,CHECK
+,,Battle,,CHECK
+,,Warlord Ambition,,CHECK
+,,Weapon,,CHECK
+,,,,CHECK
+,Relic Liaisons,Agent,F408,CHECK
+,,Keeper Ambition,,CHECK
+,,Relic,,CHECK
+,,Secure,,CHECK
+,,,,CHECK
+,Psionic Liaisons,Agent,F409,CHECK
+,,Empath Ambition,,CHECK
+,,Influence,,CHECK
+,,Psionic,,CHECK
+,,,,CHECK
+,Diplomatic Fiasco,Agent,F410,CHECK
+,,Crisis,,CHECK
+,,Guild Card,,CHECK
+,,Protected Guild Cards,,CHECK
+,,Rival,,CHECK
+,,Secure,,CHECK
+,,,,
+,Advocate Act II Objective,Chapter,F412B,
+,,Edict,,
+,,Guild Card,,
+,,Guild Card Suit,,
+,,Rival,,
+,,,,
+,Advocate's Demand,Favor,F413,CHECK
+,,Guild Card,,CHECK
+,,Protected Guild Cards,,CHECK
+,,Rival,,CHECK
+,,Scrap,,CHECK
+,,,,
+,Guild Negotiations,Favor,F414,
+,,Guild Card,,
+,,Protected Guild Cards,,
+,,Raid,,
+,,Summit,,
+,,Negotiation Action,,
+,,Raid Cost,,
+,,,,
+Control Over,Guild Fair,Agent,F416,CHECK
+,,Crisis,,CHECK
+,,Guild Card,,CHECK
+,,Rival,,CHECK
+,,Secure,,CHECK
+,,,,CHECK
+,Material Guildmasters,Guild Card,F417,CHECK
+,,Material,,CHECK
+,,Tycoon Ambition,,CHECK
+,,,,CHECK
+,Fuel Guildmasters,Fuel,F418,CHECK
+,,Guild Card,,CHECK
+,,Tycoon Ambition,,CHECK
+,,,,CHECK
+,Weapons Guildmasters,Guild Card,F419,CHECK
+,,Warlord Ambition,,CHECK
+,,Weapon,,CHECK
+,,,,CHECK
+,Relic Guildmasters,Guild Card,F420,CHECK
+,,Keeper Ambition,,CHECK
+,,Relic,,CHECK
+,,,,CHECK
+,Psionic Guildmasters,Empath Ambition,F421,CHECK
+,,Guild Card,,CHECK
+,,Psionic,,CHECK
+,,,,
+,Guild Loyalty,Guild Card,F424,CHECK
+,,Outrage,,
+,,Provoke Outrage,,
+,,,,
+,Guild Supremacy,Guild Card,F425,
+,,Score Ambition,,
+,,,,
+,Advocate Act III Objective,Chapter,F423B,
+,,Guild Card,,
+,,Guild Card Suit,,
+,,Court,,
+,,,,
+Caretaker,A,,,
+Rules for You,Caretaker Act I Objective,Winning Ambitions,F501B,
+,,Prelude,,
+,,Token,,
+,,,,
+,Golem Beacon,Control,F502,
+,,Influence,,
+,,Map,,
+,,Winning Ambitions,,
+,,,,
+,Golem Hearth,Crisis,F503,
+,,Map,,
+,,Raid,,
+,,,,
+,Stone-Speakers,Edict,F504,
+,,Event Die,,
+,,Rival,,
+,,Declare Ambition,,
+,,Crisis,,
+,,,,
+,Golems,Act,F505,CHECK
+,,Map,,CHECK
+,,Resource,,CHECK
+,,Resource Slots,,CHECK
+,,Rival,,CHECK
+,,,,
+,Golem Actions,Armor,F506,CHECK
+,,Catapult,,CHECK
+,,Damage,,CHECK
+,,Flagship,,CHECK
+,,Loyal,,CHECK
+,,Move,,CHECK
+,,Repair,,CHECK
+,,Resource,,CHECK
+,,Ship,,CHECK
+,,System,,CHECK
+,,Upgrade,,CHECK
+,,,,
+Rules for Everyone,Caretaker Act I Resolution,Lore,F507,CHECK
+,,,,CHECK
+,Unstable Harvester,Crisis,F508,CHECK
+,,Resource,,CHECK
+,,Scrap,,CHECK
+,,Secure,,CHECK
+,,,,CHECK
+,Unstable Seeker,Cluster,F509,CHECK
+,,Crisis,,CHECK
+,,Loyal,,CHECK
+,,Move,,CHECK
+,,Planet,,CHECK
+,,Scrap,,CHECK
+,,Secure,,CHECK
+,,Ship,,CHECK
+,,,,CHECK
+,Unstable Protector,Crisis,F510,CHECK
+,,Repair,,CHECK
+,,Scrap,,CHECK
+,,Secure,,CHECK
+,,Ship,,CHECK
+,,,,CHECK
+,Unstable Warrior,Crisis,F511,CHECK
+,,Damage,,CHECK
+,,Loyal,,CHECK
+,,Scrap,,CHECK
+,,Secure,,CHECK
+,,Ship,,CHECK
+,,,,
+,Caretaker Act II Objective,Build,F512B,CHECK
+,,Chapter,,CHECK
+,,Lore,,CHECK
+,,Rival,,CHECK
+,,Secure,,CHECK
+,,Summit,,CHECK
+,,,,
+,Librarians,Crisis,F513,
+,,Lore,,
+,,Secure,,
+,,,,
+,Knowledge Set Free,,F514,
+,,Favor,,
+,,Lore,,
+,,Negotiation Actions,,
+,,Raid,,
+,,Rival,,
+,,Summit,,
+,,,,
+Control Over,Golem Worship,City,F517,
+,,Loyal,,
+,,,,
+,Caretaker Act III Objective,,F520B,
+,,Chapter,,
+,,Lore,,
+,,Scrap,,
+,,,,
+,Golems Sate Their Appetite,Agent,F521,
+,,Guild Card,,
+,,Protected Guild Cards,,
+,,Scrap,,
+,,,,
+Partisan,A,,,
+Rules for You,Partisan Act I Objective,Initiative,F601B,CHECK
+,,Outrage,,CHECK
+,,Provoke Outrage,,CHECK
+,,Resource,,CHECK
+,,Weapon,,CHECK
+,,,,
+,Informants,,F602,CHECK
+,,Action Card,,CHECK
+,,Influence,,CHECK
+,,Rival,,CHECK
+,,,,
+,Partisan Seizing,,F603,CHECK
+,,Action Card,,CHECK
+,,Agent,,CHECK
+,,Guild Card,,CHECK
+,,Initiative,,CHECK
+,,Outrage,,CHECK
+,,Provoke Outrage,,CHECK
+,,Resource,,CHECK
+,,Scrap,,CHECK
+,,,,
+Rules for Everyone,Loyal Engineers,,F605,CHECK
+,,Material,,CHECK
+,,Outrage,,CHECK
+,,Provoke Outrage,,CHECK
+,,Resource,,CHECK
+,,,,
+,Loyal Pilots,,F606,CHECK
+,,Fuel,,CHECK
+,,Outrage,,CHECK
+,,Provoke Outrage,,CHECK
+,,Resource,,CHECK
+,,,,
+,Loyal Marines,,F607,CHECK
+,,Control,,CHECK
+,,Outrage,,CHECK
+,,Provoke Outrage,,CHECK
+,,Resource,,CHECK
+,,Ship,,CHECK
+,,System,,CHECK
+,,Weapon,,CHECK
+,,,,
+,Loyal Empaths,,F608,CHECK
+,,Outrage,,CHECK
+,,Provoke Outrage,,CHECK
+,,Psionic,,CHECK
+,,Resource,,CHECK
+,,,,
+,Loyal Keepers,,F609,CHECK
+,,Outrage,,CHECK
+,,Provoke Outrage,,CHECK
+,,Relic,,CHECK
+,,Resource,,CHECK
+,,,,
+,Galactic Bards,Action Card,F610,CHECK
+,,Surpass,,
+,,Pivot,,
+,,,,
+,Outrage Spreads,Crisis,F613,CHECK
+,,Outrage,,CHECK
+,,Planet,,CHECK
+,,Provoke Outrage,,CHECK
+,,Secure,,CHECK
+,,,,
+,Partisan Act II Objective,Action Card,F615B,CHECK
+,,Guild Card,,CHECK
+,,Initiative,,CHECK
+,,Outrage,,CHECK
+,,Ship,,CHECK
+,,,,CHECK
+,,,,
+,Partisan Seizing,Action Card,F616,CHECK
+,,Agent,,CHECK
+,,Guild Card,,CHECK
+,,Initiative,,CHECK
+,,Outrage,,CHECK
+,,Provoke Outrage,,CHECK
+,,Resource,,CHECK
+,,,,CHECK
+,,,,
+,People's Hero,Guild Card,F617,CHECK
+,,Outrage,,CHECK
+,,Rival,,CHECK
+,,,,
+Control Over,Guilds Decry Terror,Court Deck,F619,CHECK
+,,Imperial Council,,CHECK
+,,,,
+,Terror Strike,Court Deck,F620,CHECK
+,,Crisis,,CHECK
+,,Damage,,CHECK
+,,Loyal,,CHECK
+,,Outrage,,CHECK
+,,Piece,,CHECK
+,,Planet,,CHECK
+,,Secure,,CHECK
+,,,,
+,Partisan Act III Objective,Guild Card,F624B,CHECK
+,,Initiative,,CHECK
+,,Power,,CHECK
+,,Rival,,CHECK
+,,,,
+,Sower of Division,Agent,F625,CHECK
+,,Initiative,,CHECK
+,,Loyal,,CHECK
+,,Outrage,,CHECK
+,,Provoke Outrage,,CHECK
+,,Rival,,CHECK
+,,,,
+Admiral,A,,,
+Rules for You,Admiral Act I Objective,Battle,F701B,CHECK
+,,Blight,,CHECK
+,,Edict,,CHECK
+,,Govern the Imperial Reach,,CHECK
+,,Imperial Ships,,CHECK
+,,Loyal,,CHECK
+,,Map,,CHECK
+,,Outlaw,,CHECK
+,,Ship,,CHECK
+,,,,
+,Imperial Officers,Control,F702,CHECK
+,,Empire,,CHECK
+,,Imperial Ships,,CHECK
+,,Loyal,,CHECK
+,,Move,,CHECK
+,,Outlaw,,CHECK
+,,Piece,,CHECK
+,,Ship,,CHECK
+,,System,,CHECK
+,,,,CHECK
+,,,,
+,Use Imperial Foundries,Loyal,F703,CHECK
+,,Objective,,CHECK
+,,Ship,,CHECK
+,,Starport,,CHECK
+,,System,,CHECK
+,,,,
+Rules for Everyone,Honor Guard,Guild Card,F705,CHECK
+,,Weapon,,CHECK
+,,,,
+,Rogue Admirals,Control,F706,CHECK
+,,Empire,,CHECK
+,,Imperial Ships,,CHECK
+,,Move,,CHECK
+,,Outlaw,,CHECK
+,,Ship,,CHECK
+,,System,,CHECK
+,,Control,,CHECK
+,,Empire,,CHECK
+,,Imperial Ships,,CHECK
+,,Move,,CHECK
+,,Outlaw,,CHECK
+,,Ship,,CHECK
+,,System,,CHECK
+,,,,
+,Court Enforcers,Agent,F708,CHECK
+,,Battle,,CHECK
+,,Control,,CHECK
+,,Resource,,CHECK
+,,Rival,,CHECK
+,,Ship,,CHECK
+,,System,,CHECK
+,,Weapon,,CHECK
+,,,,
+,Imperial Defectors,Cluster,F710,CHECK
+,,Crisis,,CHECK
+,,Imperial Ships,,CHECK
+,,Outlaw,,CHECK
+,,Secure,,CHECK
+,,Ship,,CHECK
+,,Cluster,,CHECK
+,,Crisis,,CHECK
+,,Imperial Ships,,CHECK
+,,Outlaw,,CHECK
+,,Secure,,CHECK
+,,Ship,,CHECK
+,,,,
+,Admiral Act II Objective,Agent,"F712B
+F712B",CHECK
+,,Battle,,CHECK
+,,Blight,,CHECK
+,,Chapter,,CHECK
+,,Control,,CHECK
+,,Empire,,CHECK
+,,Outlaw,,CHECK
+,,Piece,,CHECK
+,,Planet,,CHECK
+,,Rival,,CHECK
+,,,,CHECK
+,,Summit,,CHECK
+,,,,
+,Command Chaos,Court Deck,F713,CHECK
+,,Crisis,,CHECK
+,,Influence,,CHECK
+,,Secure,,CHECK
+,,,,CHECK
+Control Over,Mass Uprising,Cluster,F717,CHECK
+,,Crisis,,CHECK
+,,Damage,,CHECK
+,,Map,,CHECK
+,,Secure,,CHECK
+,,Ship,,CHECK
+,,System,,CHECK
+,,,,
+,Admiral Act III Objective,Control,F719B,CHECK
+,,Empire,,CHECK
+,,First Regent,,CHECK
+,,Loyal,,CHECK
+,,Map,,CHECK
+,,Planet,,CHECK
+,,Rival,,CHECK
+,,Ship,,CHECK
+,,,,
+,Martial Law,Ambitions,F720,CHECK
+,,Catapult,,CHECK
+,,Control,,CHECK
+,,Empire,,CHECK
+,,First Regent,,CHECK
+,,Gates,,CHECK
+,,Imperial Fleet,,CHECK
+,,Imperial Ships,,CHECK
+,,Move,,CHECK
+,,Objective,,CHECK
+,,Ship,,CHECK
+,,System,,CHECK
+,,,,CHECK
+,,,,
+Believer,A,,,
+Rules for You,Believer Act I Objective,Action Card,F801B,CHECK
+,,Ambitions,,CHECK
+,,Chapter,,CHECK
+,,,,CHECK
+,,,,
+,Faithful Disciples,Action Card,F802,CHECK
+,,,,CHECK
+,,,,
+,Spreading the Faith,Action Card,F803,CHECK
+,,City,,CHECK
+,,Guild Card,,CHECK
+,,Influence,,CHECK
+,,Loyal,,CHECK
+,,Planet,,CHECK
+,,Scrap,,CHECK
+,,,,CHECK
+,,,,
+,Faithful Cards,Action Card,F813,CHECK
+,,Battle,,CHECK
+,,Build,,CHECK
+,,Influence,,CHECK
+,,Initiative,,CHECK
+,,Move,,CHECK
+,,Repair,,CHECK
+,,Secure,,CHECK
+,,Tax,,CHECK
+,,,,CHECK
+,,,,
+,Pluralistic Faith,Action Card,F814,CHECK
+,,,,CHECK
+,,,,
+Rules for Everyone,The Young Light,Action Card,F816,CHECK
+,,,,CHECK
+,,,,
+,Plot to Kidnap,Action Card,F817,CHECK
+,,Crisis,,CHECK
+,,Secure,,CHECK
+,,,,CHECK
+,,,,
+,Believer Act II Objective,Action Card,F820B,CHECK
+,,Ambitions,,CHECK
+,,City,,CHECK
+,,Objective,,CHECK
+,,Power,,CHECK
+,,Rules Booklet,,CHECK
+,,,,CHECK
+,,,,
+,Set Doctrine,Action Card,F821,CHECK
+,,Ambitions,,CHECK
+,,Map,,CHECK
+,,,,CHECK
+,,,,
+,Doctrine of Zeal,Act,F822A,CHECK
+,,Action Card,,CHECK
+,,Ambition Box,,CHECK
+,,Ambitions,,CHECK
+,,Declare Ambition,,CHECK
+,,,,
+,Doctrine of Wisdom,Act,F822B,CHECK
+,,Action Card,,CHECK
+,,Ambition Box,,CHECK
+,,Ambitions,,CHECK
+,,Declare Ambition,,CHECK
+,,,,
+,Doctrinal Faith,Action Card,F823,CHECK
+,,Ambition Box,,CHECK
+,,,,CHECK
+,,,,
+Control Over,The Prophet,Action Card,F825,CHECK
+,,,,CHECK
+,,,,
+,Set Lay Doctrine,Action Card,F827,CHECK
+,,Ambitions,,CHECK
+,,Initiative,,CHECK
+,,Map,,CHECK
+,,,,CHECK
+,,,,
+,Repressed Faith,Action Card,F828,CHECK
+,,Ambitions,,CHECK
+,,,,CHECK
+,,,,
+,Believer Act III Objective,Ambition Marker,F829B,CHECK
+,,Ambitions,,CHECK
+,,Objective,,CHECK
+,,,,
+,Dominant Faith,Action Card,F830,CHECK
+,,Ambition Box,,CHECK
+,,,,CHECK
+,,,,
+,Breaking the Faith,City,F831,CHECK
+,,Loyal,,CHECK
+,,Move,,CHECK
+,,Rival,,CHECK
+,,Token,,CHECK
+,,,,
+Pathfinder,B,,,
+Model World,Uncovering Clues,Flagship,F902,
+,,Resource Spend,,
+,,Planet,,
+,,Cluster,,
+,,Resource Gain,,Do the pathfinder thing while still advancing your position
+,,City,,
+,,Starport,,
+,,Ship,,
+,,,,
+,Slipstream Drive,Catapult,,
+,,Flagship,,
+,,Move,,
+,,,,
+,Hull,Flagship,,
+,,Hit,,
+,,Upgrade,,
+,,,,
+Score World,Pilgrims,Loyal,F908,
+,,Piece,,
+,,System,,
+,,Control,,
+,,Flagship,,
+,,,,
+,Use the Portal,Move,,
+,,Token,,
+,,Objective Card,,
+,,Court Deck,,
+,,,,
+,Seek the Portal,Control,F909,
+,,Scrap,,
+,,Ship,,
+,,Power,,
+,,Court Deck,,Rival scoring. Influence auction like where you score for Rival pieces basically. You can suck up Rival pieces ships.
+,,,,
+Hegemon,B,,,
+Model World,Hegemon Act II Objective,Ambitions,F1001B,CHECK
+,,Chapter,,CHECK
+,,Map,,CHECK
+,,,,
+,Planting Banners,Build,F1002,CHECK
+,,Flagship,,CHECK
+,,Loyal,,CHECK
+,,Piece,,CHECK
+,,Planet,,CHECK
+,,Scrap,,CHECK
+,,Ship,,CHECK
+,,Token,,CHECK
+,,,,
+,Banners of Hegemony,Flagship,F1003,CHECK
+,,Harm,,CHECK
+,,Loyal,,CHECK
+,,Planet,,CHECK
+,,Power,,CHECK
+,,Raid,,CHECK
+,,Repair,,CHECK
+,,Ship,,CHECK
+,,System,,CHECK
+,,Trophies,,CHECK
+,,,,
+,Song of the Banner,Build,F1004,CHECK
+,,Move,,CHECK
+,,Planet,,CHECK
+,,Resource,,CHECK
+,,Ship,,CHECK
+,,Tax,,CHECK
+,,,,
+Score World,Mind Managers,Influence,F1006,CHECK
+,,Rival,,CHECK
+,,,,
+,Prison Wardens,Build,F1007,CHECK
+,,Captives,,CHECK
+,,Control,,CHECK
+,,Influence,,CHECK
+,,Move,,CHECK
+,,Resource,,CHECK
+,,Ship,,CHECK
+,,System,,CHECK
+,,Trophies,,CHECK
+,,,,
+,Against Hegemony,Control,F1009,CHECK
+,,Crisis,,CHECK
+,,Map,,CHECK
+,,Scrap,,CHECK
+,,Secure,,CHECK
+,,Trophies,,CHECK
+,,,,
+,Hegemon Act III Objective,Chapter,F1011B,CHECK
+,,Map,,CHECK
+,,Rival,,CHECK
+,,Tyrant Ambition,,CHECK
+,,,,
+,Happy Hosts,Captives,F1012,CHECK
+,,Control,,CHECK
+,,Damage,,CHECK
+,,Loyal,,CHECK
+,,Secure,,CHECK
+,,Ship,,CHECK
+,,,,
+Planet Breaker,B,,,
+Model World,Planet Breaker Act II Objective,Map,F1101B,CHECK
+,,Planet,,CHECK
+,,Repair,,CHECK
+,,Token,,CHECK
+,,,,CHECK
+,,,,
+,Sycophants,Control,F1102,CHECK
+,,Outrage,,CHECK
+,,Planet,,CHECK
+,,Provoke Outrage,,CHECK
+,,Ship,,CHECK
+,,System,,CHECK
+,,,,
+,Hammer Fragments,Control,F1103A,CHECK
+,,Outrage,,CHECK
+,,Planet,,CHECK
+,,Provoke Outrage,,CHECK
+,,Repair,,CHECK
+,,Ship,,CHECK
+,,Token,,CHECK
+,,,,
+,Breaking Worlds,Agent,F1103B,CHECK
+,,Battle,,CHECK
+,,Build,,CHECK
+,,Control,,CHECK
+,,Court Deck,,CHECK
+,,Guild Card,,CHECK
+,,Harm,,CHECK
+,,Outrage,,CHECK
+,,Planet,,CHECK
+,,Provoke Outrage,,CHECK
+,,Rival,,CHECK
+,,Scrap,,CHECK
+,,Token,,CHECK
+,,Trophies,,CHECK
+,,,,CHECK
+,,,,
+,Planet Hammer,Battle,F1104,CHECK
+,,Build,,CHECK
+,,Control,,CHECK
+,,Map,,CHECK
+,,Planet,,CHECK
+,,Token,,CHECK
+,,,,
+,Forgeworld Refugees,Build,F1105,CHECK
+,,City,,CHECK
+,,Control,,CHECK
+,,Free City,,CHECK
+,,Material,,CHECK
+,,Outrage,,CHECK
+,,Planet,,CHECK
+,,Resource,,CHECK
+,,Resource Slots,,CHECK
+,,Scrap,,CHECK
+,,,,
+,Blazeworld Refugees,Build,F1106,CHECK
+,,City,,CHECK
+,,Control,,CHECK
+,,Free City,,CHECK
+,,Fuel,,CHECK
+,,Outrage,,CHECK
+,,Planet,,CHECK
+,,Resource,,CHECK
+,,Resource Slots,,CHECK
+,,Scrap,,CHECK
+,,,,
+,Deadworld Refugees,Build,F1107,CHECK
+,,City,,CHECK
+,,Control,,CHECK
+,,Free City,,CHECK
+,,Outrage,,CHECK
+,,Planet,,CHECK
+,,Resource,,CHECK
+,,Resource Slots,,CHECK
+,,Scrap,,CHECK
+,,Weapon,,CHECK
+,,,,
+,Lostworld Refugees,Build,F1108,CHECK
+,,City,,CHECK
+,,Control,,CHECK
+,,Free City,,CHECK
+,,Outrage,,CHECK
+,,Planet,,CHECK
+,,Relic,,CHECK
+,,Resource,,CHECK
+,,Resource Slots,,CHECK
+,,Scrap,,CHECK
+,,,,
+,Heartworld Refugees,Build,F1109,CHECK
+,,City,,CHECK
+,,Control,,CHECK
+,,Free City,,CHECK
+,,Outrage,,CHECK
+,,Planet,,CHECK
+,,Psionic,,CHECK
+,,Resource,,CHECK
+,,Resource Slots,,CHECK
+,,Scrap,,CHECK
+,,,,
+Score World,Planet-Eater Loose,Agent,F1111,CHECK
+,,Crisis,,CHECK
+,,Event Die,,CHECK
+,,Hit,,CHECK
+,,Planet,,CHECK
+,,Power,,CHECK
+,,Secure,,CHECK
+,,Token,,CHECK
+,,Dice,,CHECK
+,,Action Card,,
+,,,,
+,,,,
+,Planet Breaker Act III Objective,Build,F1112B,CHECK
+,,Chapter,,CHECK
+,,Map,,CHECK
+,,Outrage,,CHECK
+,,Rival,,CHECK
+,,Warlord Ambition,,CHECK
+,,,,
+Pirate,B,,,
+Model World,Pirate Act II Setup,Cluster,F1201A,CHECK
+,,Flagship,,CHECK
+,,Loyal,,CHECK
+,,Ship,,CHECK
+,,Starport,,CHECK
+,,Upgrade,,CHECK
+,,Ambition Box,,CHECK
+,,Chapter,,CHECK
+,,Guild Card,,CHECK
+,,Resource,,CHECK
+,,Rival,,CHECK
+,,,,CHECK
+,,,,
+,Pirate Hoard,Ambitions,F1202,CHECK
+,,Build,,CHECK
+,,Free Building,,CHECK
+,,Outrage,,CHECK
+,,Raid,,CHECK
+,,Resource,,CHECK
+,,,,
+,Pirate Fleet,Battle,F1203,CHECK
+,,Build,,CHECK
+,,Damage,,CHECK
+,,Dice,,CHECK
+,,Flagship,,CHECK
+,,Raid,,CHECK
+,,Resource,,CHECK
+,,Ship,,CHECK
+,,,,
+Score World,Pirate Smugglers,Agent,F1205,CHECK
+,,Control,,CHECK
+,,Loyal,,CHECK
+,,Rival,,CHECK
+,,Ship,,CHECK
+,,Tax,,CHECK
+,,,,
+,Call to Action,Action Card,F1206,CHECK
+,,Crisis,,CHECK
+,,Resource,,CHECK
+,,Secure,,CHECK
+,,,,CHECK
+,,,,
+,Silver-Tongues,Guild Card,F1207,CHECK
+,,Resource,,CHECK
+,,,,
+,Pirate Grand Ambition,Act,F1208B,CHECK
+,,Control,,CHECK
+,,Loyal,,CHECK
+,,Piece,,CHECK
+,,Planet,,CHECK
+,,Power,,CHECK
+,,Resource,,CHECK
+,,Rival,,CHECK
+,,System,,CHECK
+,,Token,,CHECK
+,,,,
+,Rumors Spread,Agent,F1209,CHECK
+,,Cluster,,CHECK
+,,Crisis,,CHECK
+,,Loyal,,CHECK
+,,Piece,,CHECK
+,,Secure,,CHECK
+,,System,,CHECK
+,,Token,,CHECK
+,,,,CHECK
+,,,,CHECK
+,,,,CHECK
+,,,,CHECK
+,,,,CHECK
+,,,,CHECK
+,,,,CHECK
+,,,,CHECK
+,,,,
+,Rumors of the Haven,Agent,F1211,CHECK
+,,Battle,,CHECK
+,,Cluster,,CHECK
+,,Control,,CHECK
+,,Loyal,,CHECK
+,,Map,,CHECK
+,,Objective,,CHECK
+,,Objective Card,,CHECK
+,,Planet,,CHECK
+,,Power,,CHECK
+,,Rival,,CHECK
+,,,,CHECK
+,,,,
+,Sharing Rumors,Agent,F1212,CHECK
+,,Loyal,,CHECK
+,,Rival,,CHECK
+,,Summit,,CHECK
+,,Token,,CHECK
+,,Negotiation Action,,CHECK
+,,,,
+Blight Speaker,B,,,
+Model World,Blight Speaker Act II Setup,Loyal,F1301A,CHECK
+,,Map,,CHECK
+,,Scrap,,CHECK
+,,Ship,,CHECK
+,,System,,CHECK
+,,,,
+,Blight Speaker Act II Objective,Blight,F1301B,CHECK
+,,Loyal,,CHECK
+,,Map,,CHECK
+,,Ship,,CHECK
+,,System,,CHECK
+,,,,CHECK
+,,,,
+,Spore Ships,Blight,F1302,CHECK
+,,Build,,CHECK
+,,Catapult,,CHECK
+,,Control,,CHECK
+,,Damage,,CHECK
+,,Move,,CHECK
+,,System,,CHECK
+,,,,
+Score World,Blight Speaker Act II Resolution,Blight,F1303,CHECK
+,,Court Deck,,CHECK
+,,Objective,,CHECK
+,,Scrap,,CHECK
+,,,,
+,Blight Fury,Battle,F1304,CHECK
+,,Blight,,CHECK
+,,Catapult,,CHECK
+,,Cluster,,CHECK
+,,Control,,CHECK
+,,Crisis,,CHECK
+,,Loyal,,CHECK
+,,Move,,CHECK
+,,Number Die,,CHECK
+,,Psionic,,CHECK
+,,Repair,,CHECK
+,,System,,CHECK
+,,,,
+,Blight Hunters,Battle,F1305,CHECK
+,,Blight,,CHECK
+,,Damage,,CHECK
+,,Hit,,CHECK
+,,Blight,,CHECK
+,,Control,,CHECK
+,,Damage,,CHECK
+,,Planet,,CHECK
+,,Resource,,CHECK
+,,System,,CHECK
+,,Tax,,CHECK
+,,,,
+,Blight Purge,Blight,F1307,CHECK
+,,Crisis,,CHECK
+,,Power,,CHECK
+,,Rival,,CHECK
+,,Secure,,CHECK
+,,Trophies,,CHECK
+,,,,CHECK
+,,,,CHECK
+,,,,CHECK
+,,,,CHECK
+,,,,CHECK
+,,,,CHECK
+,,,,CHECK
+,,,,CHECK
+,,,,CHECK
+,,,,CHECK
+,,,,CHECK
+,,,,CHECK
+,,,,
+,Blight Panic,Agent,F1310,CHECK
+,,Blight,,CHECK
+,,Build,,CHECK
+,,Cluster,,CHECK
+,,Crisis,,CHECK
+,,Damage,,CHECK
+,,Flagship,,CHECK
+,,Loyal,,CHECK
+,,Piece,,CHECK
+,,Secure,,CHECK
+,,Ship,,CHECK
+,,Trophies,,CHECK
+,,,,
+,Blight Looms,Blight,F1311,CHECK
+,,Cluster,,CHECK
+,,Crisis,,CHECK
+,,Damage,,CHECK
+,,Loyal,,CHECK
+,,Piece,,CHECK
+,,Planet,,CHECK
+,,Repair,,CHECK
+,,Secure,,CHECK
+,,,,
+,Blight Speaker Act III Setup,Blight,F1312A,CHECK
+,,,,
+,Blight Speaker Act III Objective,Blight,F1312B,CHECK
+,,Chapter,,CHECK
+,,Piece,,CHECK
+,,Rival,,CHECK
+,,Warlord Ambition,,CHECK
+,,,,
+,Blight Hunger,Ambitions,F1313,CHECK
+,,Blight,,CHECK
+,,Crisis,,CHECK
+,,Grand Ambitions,,CHECK
+,,Piece,,CHECK
+,,,,
+Pacifist,B,,,
+Model World,Pacifist Act II Objective,Captives,F1401B,CHECK
+,,Chapter,,CHECK
+,,Psionic,,CHECK
+,,Trophies,,CHECK
+,,,,
+,Witnesses,Catapult,F1402,CHECK
+,,Control,,CHECK
+,,Loyal,,CHECK
+,,Move,,CHECK
+,,Piece,,CHECK
+,,Planet,,CHECK
+,,Psionic,,CHECK
+,,Resource,,CHECK
+,,Ship,,CHECK
+,,Token,,CHECK
+,,,,
+,Well of Empathy,Battle,F1403,CHECK
+,,Psionic,,CHECK
+,,Raid,,CHECK
+,,Trophies,,CHECK
+,,,,
+Score World,Psionic Liaisons,Agent,F1405,CHECK
+,,Empath Ambition,,CHECK
+,,Influence,,CHECK
+,,Psionic,,CHECK
+,,,,
+,Itinerant Empaths,Crisis,F1406,CHECK
+,,Power,,CHECK
+,,Psionic,,CHECK
+,,Resource,,CHECK
+,,Resource Slots,,CHECK
+,,Secure,,CHECK
+,,Crisis,,CHECK
+,,Power,,CHECK
+,,Psionic,,CHECK
+,,Resource,,CHECK
+,,Resource Slots,,CHECK
+,,Secure,,CHECK
+,,,,
+,Pacifist Act III Objective,Captives,F1408B,CHECK
+,,Psionic,,CHECK
+,,Resource,,CHECK
+,,Rival,,CHECK
+,,Trophies,,CHECK
+,,,,
+,Empathy for All,Battle,F1409,CHECK
+,,Harm,,CHECK
+,,Hit,,CHECK
+,,Outrage,,CHECK
+,,Planet,,CHECK
+,,Provoke Outrage,,CHECK
+,,Raid,,CHECK
+,,Resource,,CHECK
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,Reconcile with the Outraged,Call to Order,F1411,CHECK
+,,Favor,,CHECK
+,,Outrage,,CHECK
+,,Psionic,,CHECK
+,,Rival,,CHECK
+,,Summit,,CHECK
+,,,,CHECK
+,,,,
+,Rebuke of the Empaths,Captives,F1412,CHECK
+,,Frozen Resources,,CHECK
+,,Fuel,,CHECK
+,,Guild Card,,CHECK
+,,Material,,CHECK
+,,Outrage,,CHECK
+,,Psionic,,CHECK
+,,Resource,,CHECK
+,,,,
+Peacekeeper,B,,,
+Model World,Peacekeeper Act II Setup,Ship,F1501A,CHECK
+,,System,,CHECK
+,,Warlord Ambition,,CHECK
+,,Weapon,,CHECK
+,,,,
+,Peacekeeper Act II Objective,Chapter,F1501B,CHECK
+,,Control,,CHECK
+,,Empire,,CHECK
+,,First Regent,,CHECK
+,,Objective,,CHECK
+,,Planet,,CHECK
+,,Weapon,,CHECK
+,,,,CHECK
+,,,,
+,Oath of Peace,Blight,F1502,CHECK
+,,Imperial Policy,,CHECK
+,,Power,,CHECK
+,,Rival,,CHECK
+,,Scrap,,CHECK
+,,Trophies,,CHECK
+,,,,
+,Arsenal Keepers,Imperial Trust,F1503,CHECK
+,,Raid,,CHECK
+,,Weapon,,CHECK
+,,,,
+Score World,Arms Interest,Build,F1505,CHECK
+,,Resource,,CHECK
+,,Resource Slots,,CHECK
+,,Weapon,,CHECK
+,,Build,,CHECK
+,,Resource,,CHECK
+,,Resource Slots,,CHECK
+,,Weapon,,CHECK
+,,,,
+,Peacekeeper Act III Objective,Cluster,F1507B,CHECK
+,,Edict,,CHECK
+,,Empire,,CHECK
+,,First Regent,,CHECK
+,,Outlaw,,CHECK
+,,,,
+,Ceasefires,Battle,F1508,CHECK
+,,Blight,,CHECK
+,,Cluster,,CHECK
+,,Damage,,CHECK
+,,Gates,,CHECK
+,,Harm,,CHECK
+,,Hit,,CHECK
+,,Loyal,,CHECK
+,,Move,,CHECK
+,,Piece,,CHECK
+,,System,,CHECK
+,,Token,,CHECK
+,,Weapon,,CHECK
+,,,,
+,Empire Balks at Peace,Cluster,F1509,CHECK
+,,Control,,CHECK
+,,Empire,,CHECK
+,,First Regent,,CHECK
+,,Imperial Policy,,CHECK
+,,Outlaw,,CHECK
+,,System,,CHECK
+,,Token,,CHECK
+,,,,
+,Peace Dividends,Cluster,F1510,CHECK
+,,Control,,CHECK
+,,Empire,,CHECK
+,,First Regent,,CHECK
+,,Imperial Policy,,CHECK
+,,Power,,CHECK
+,Peace Dividends,System,F1510,CHECK
+,,,,
+,Peace Accords,Cluster,F1511,CHECK
+,,Control,,CHECK
+,,Empire,,CHECK
+,,Favor,,CHECK
+,,First Regent,,CHECK
+,,Rival,,CHECK
+,,Summit,,CHECK
+,,System,,CHECK
+,,Token,,CHECK
+,,,,CHECK
+,,,,
+Warden,B,,,
+Model World,Warden Act II Objective,Chapter,F1601B,CHECK
+,,City,,CHECK
+,,Control,,CHECK
+,,Token,,CHECK
+,,,,
+,Claims of Nobility,City,F1602,CHECK
+,,Cluster,,CHECK
+,,Control,,CHECK
+,,Crisis,,CHECK
+,,Loyal,,CHECK
+,,Tax,,CHECK
+,,Token,,CHECK
+,,Attach,,CHECK
+,,Court,,
+,,,,
+,,,,
+,Lord of the 1st Cluster,Captives,F1603,CHECK
+,,City,,CHECK
+,,Cluster,,CHECK
+,,Control,,CHECK
+,,Fate,,CHECK
+,,Flagship,,CHECK
+,,Harm,,CHECK
+,,Loyal,,CHECK
+,,Outrage,,CHECK
+,,Rival,,CHECK
+,,Ship,,CHECK
+,,Tax,,CHECK
+,,Building Hat,,
+,,,,
+,Lord of the 2nd Cluster,Captives,F1604,CHECK
+,,City,,CHECK
+,,Cluster,,CHECK
+,,Control,,CHECK
+,,Fate,,CHECK
+,,Flagship,,CHECK
+,,Harm,,CHECK
+,,Loyal,,CHECK
+,,Outrage,,CHECK
+,,Rival,,CHECK
+,,Ship,,CHECK
+,,Tax,,CHECK
+,,Building Hat,,
+,,,,
+,Lord of the 3rd Cluster,Captives,F1605,CHECK
+,,City,,CHECK
+,,Cluster,,CHECK
+,,Control,,CHECK
+,,Fate,,CHECK
+,,Flagship,,CHECK
+,,Harm,,CHECK
+,,Loyal,,CHECK
+,,Outrage,,CHECK
+,,Rival,,CHECK
+,,Ship,,CHECK
+,,Tax,,CHECK
+,,Building Hat,,
+,,,,
+,Lord of the 4th Cluster,Captives,F1606,CHECK
+,,City,,CHECK
+,,Cluster,,CHECK
+,,Control,,CHECK
+,,Fate,,CHECK
+,,Flagship,,CHECK
+,,Harm,,CHECK
+,,Loyal,,CHECK
+,,Outrage,,CHECK
+,,Rival,,CHECK
+,,Ship,,CHECK
+,,Tax,,CHECK
+,,Building Hat,,
+,,,,
+,Lord of the 5th Cluster,Captives,F1607,CHECK
+,,City,,CHECK
+,,Cluster,,CHECK
+,,Control,,CHECK
+,,Fate,,CHECK
+,,Flagship,,CHECK
+,,Harm,,CHECK
+,,Loyal,,CHECK
+,,Outrage,,CHECK
+,,Rival,,CHECK
+,,Ship,,CHECK
+,,Tax,,CHECK
+,,Building Hat,,
+,,,,
+,Lord of the 6th Cluster,Captives,F1608,CHECK
+,,City,,CHECK
+,,Cluster,,CHECK
+,,Control,,CHECK
+,,Fate,,CHECK
+,,Flagship,,CHECK
+,,Harm,,CHECK
+,,Loyal,,CHECK
+,,Outrage,,CHECK
+,,Rival,,CHECK
+,,Ship,,CHECK
+,,Tax,,CHECK
+,,Building Hat,,
+,,,,
+,Seats & Fiefs,City,F1609,CHECK
+,,Cluster,,CHECK
+,,Flagship,,CHECK
+,,Loyal,,CHECK
+,,Rival,,CHECK
+,,Ship,,CHECK
+,,Title,,CHECK
+,,Token,,CHECK
+,,Building Hat,,
+,,,,
+,Feudal Law,Battle,F1610,CHECK
+,,Captives,,CHECK
+,,City,,CHECK
+,,Control,,CHECK
+,,Harm,,CHECK
+,,Outrage,,CHECK
+,,Provoke Outrage,,CHECK
+,,Raid,,CHECK
+,,Rival,,CHECK
+,,Ship,,CHECK
+,,Tax,,CHECK
+,,,,CHECK
+,,,,
+Score World,Warden's Levy,Battle,F1612,CHECK
+,,Hit,,CHECK
+,,Ship,,CHECK
+,,Tax,,CHECK
+,,Trophies,,CHECK
+,,,,
+,Feast Day,Agent,F1614,CHECK
+,,City,,CHECK
+,,Crisis,,CHECK
+,,Harm,,CHECK
+,,Loyal,,CHECK
+,,Rival,,CHECK
+,,Scrap,,CHECK
+,,Secure,,CHECK
+,,Token,,CHECK
+,,Agent,,CHECK
+,,City,,CHECK
+,,Crisis,,CHECK
+,,Harm,,CHECK
+,,Loyal,,CHECK
+,,Rival,,CHECK
+,,Scrap,,CHECK
+,,Secure,,CHECK
+,,Token,,CHECK
+,,,,
+,Skirmishers,Battle,F1615,CHECK
+,,Control,,CHECK
+,,Dice,,CHECK
+,,Resource,,CHECK
+,,Ship,,CHECK
+,,System,,CHECK
+,,Weapon,,CHECK
+,,,,
+,Sworn Guardians,Battle,F1616,CHECK
+,,Court Deck,,CHECK
+,,Guild Card,,CHECK
+,,Resource,,CHECK
+,,Rival,,CHECK
+,,,,
+,Warden Act III Objective,Chapter,F1617B,CHECK
+,,Control,,CHECK
+,,Rival,,CHECK
+,,,,
+,Feudal Courts,Agent,F1618,CHECK
+,,City,,CHECK
+,,Imperial Council,,CHECK
+,,Influence,,CHECK
+,,Secure,,CHECK
+,,Token,,CHECK
+,,,,
+,Lords Gain Power,Cluster,F1619,CHECK
+,,Influence,,CHECK
+,,Power,,CHECK
+,,Secure,,CHECK
+,,Token,,CHECK
+,,,,
+Overlord,C,,,
+Alternate Victory,Overlord Act III Objective,Chapter,F1701B,CHECK
+,,Control,,CHECK
+,,Empire,,CHECK
+,,First Regent,,CHECK
+,,Objective,,CHECK
+,,Outrage,,CHECK
+,,Planet,,CHECK
+,,Power,,CHECK
+,,Resource,,CHECK
+,,System,,CHECK
+,,,,
+,Sycophants,Control,F1702,CHECK
+,,Outrage,,CHECK
+,,Planet,,CHECK
+,,Provoke Outrage,,CHECK
+,,Ship,,CHECK
+,,System,,CHECK
+,,,,
+Police Victory,Reach Rejects Overlord,Outrage,F1703,CHECK
+,,Power,,CHECK
+,,,,
+Survivalist,C,,,
+Alternate Victory,Survivalist Act III Objective,Blight,F1801B,CHECK
+,,Chapter,,CHECK
+,,Crisis,,CHECK
+,,Map,,CHECK
+,,Objective,,CHECK
+,,Planet,,CHECK
+,,Power,,CHECK
+,,,,
+,Vow of Survival,Captives,F1802,CHECK
+,,Map,,CHECK
+,,Power,,CHECK
+,,Returning Captives,,CHECK
+,,Second Place,,CHECK
+,,Tyrant Ambition,,CHECK
+,,,,
+,Building Bunkers,Agent,F1803,CHECK
+,,Build,,CHECK
+,,Damage,,CHECK
+,,Harm,,CHECK
+,,Hit,,CHECK
+,,Loyal,,CHECK
+,,Piece,,CHECK
+,,Planet,,CHECK
+,,Raid,,CHECK
+,,Rival,,CHECK
+,,Scrap,,CHECK
+,,Token,,CHECK
+,,Tough,,CHECK
+,,,,
+,Bunkers,Agent,F1804,CHECK
+,,Build,,CHECK
+,,Captives,,CHECK
+,,Damage,,CHECK
+,,Harm,,CHECK
+,,Hit,,CHECK
+,,Planet,,CHECK
+,,Raid,,CHECK
+,,Rival,,CHECK
+,,Scrap,,CHECK
+,,Tough,,CHECK
+,,,,
+Police Victory,Captive Release,Captives,F1805,CHECK
+,,Control,,CHECK
+,,Loyal,,CHECK
+,,Outrage,,CHECK
+,,Planet,,CHECK
+,,Power,,CHECK
+,,Provoke Outrage,,CHECK
+,,,,
+Redeemer,C,,,
+Alternate Victory,Redeemer Act III Objective,Ambitions,F1901B,CHECK
+,,Chapter,,CHECK
+,,Objective,,CHECK
+,,Power,,CHECK
+,,Relic,,CHECK
+,,Scrap,,CHECK
+,,,,
+,Ire of the Keepers,Control,F1902,CHECK
+,,Keeper Ambition,,CHECK
+,,Loyal,,CHECK
+,,Planet,,CHECK
+,,Relic,,CHECK
+,,Tax,,CHECK
+,,,,
+,Rebuke of the Keepers,Power,F1903,CHECK
+,,Relic,,CHECK
+,,,,
+,Relic Fence,Relic,F1904,CHECK
+,,Resource,,CHECK
+,,,,
+Guardian,C,,,
+Alternate Victory,Guardian Act III Objective,Captives,F2001B,CHECK
+,,Chapter,,CHECK
+,,Control,,CHECK
+,,Fuel,,CHECK
+,,Material,,CHECK
+,,Objective,,CHECK
+,,Planet,,CHECK
+,,Power,,CHECK
+,,,,
+,Green Vault,Captives,F2002,CHECK
+,,Fuel,,CHECK
+,,Imperial Trust,,CHECK
+,,Material,,CHECK
+,,,,
+,Ire of the Tycoons,Control,F2003,CHECK
+,,Fuel,,CHECK
+,,Loyal,,CHECK
+,,Material,,CHECK
+,,Planet,,CHECK
+,,Power,,CHECK
+,,Tax,,CHECK
+,,,,
+,Edenguard Ambition,Ambitions,F2004,CHECK
+,,Control,,CHECK
+,,Empire,,CHECK
+,,First Regent,,CHECK
+,,Fuel,,CHECK
+,,Material,,CHECK
+,,Planet,,CHECK
+,,System,,CHECK
+,,,,
+Naturalist,C,,,
+Alternate Victory,Naturalist Act III Objective,Blight,F2101B,CHECK
+,,Chapter,,CHECK
+,,Control,,CHECK
+,,Map,,CHECK
+,,Objective,,CHECK
+,,Power,,CHECK
+,,Repair,,CHECK
+,,System,,CHECK
+,,,,
+,Blight Society,Agent,F2102,CHECK
+,,Blight,,CHECK
+,,Catapult,,CHECK
+,,Control,,CHECK
+,,Damage,,CHECK
+,,Loyal,,CHECK
+,,Move,,CHECK
+,,Psionic,,CHECK
+,,Repair,,CHECK
+,,Scrap,,CHECK
+,,Ship,,CHECK
+,,System,,CHECK
+,,,,CHECK
+,,,,
+,Spore Guides,Agent,F2103,CHECK
+,,Blight,,CHECK
+,,Build,,CHECK
+,,Cluster,,CHECK
+,,Damage,,CHECK
+,,Loyal,,CHECK
+,,Number Die,,CHECK
+,,System,,CHECK
+,,,,
+,Blightkin Ambition,Blight,F2104,CHECK
+,,Control,,CHECK
+,,Empire,,CHECK
+,,First Regent,,CHECK
+,,System,,CHECK
+,,,,
+Gate Wraith,C,,,
+Alternate Victory,Gate Wraith Act III Objective,Chapter,F2201B,CHECK
+,,Control,,CHECK
+,,Gates,,CHECK
+,,Map,,CHECK
+,,Objective,,CHECK
+,,Piece,,CHECK
+,,Power,,CHECK
+,,Token,,CHECK
+,,,,
+,Catapult Overdrive,Blight,F2202,CHECK
+,,Catapult,,CHECK
+,,Control,,CHECK
+,,Move,,CHECK
+,,Rival,,CHECK
+,,Starport,,CHECK
+,,,,
+,Breaking Gates & Placing Passages,Armor,F2203,CHECK
+,,Build,,CHECK
+,,Catapult,,CHECK
+,,Cluster,,CHECK
+,,Flagship,,CHECK
+,,Map,,CHECK
+,,Move,,CHECK
+,,Planet,,CHECK
+,,Ship,,CHECK
+,,Starport,,CHECK
+,,Token,,CHECK
+,,Trophies,,CHECK
+,,Upgrade,,CHECK
+,,,,
+,The Dead Live,Ambitions,F2204,CHECK
+,,Chapter,,CHECK
+,,Grand Ambitions,,CHECK
+,,Ship,,CHECK
+,,Trophies,,CHECK
+,,,,
+,Passages & The Twisted Passage,Catapult,F2205,CHECK
+,,Chapter,,CHECK
+,,Event Die,,CHECK
+,,Gates,,CHECK
+,,Harm,,CHECK
+,,Map,,CHECK
+,,Move,,CHECK
+,,Piece,,CHECK
+,,Planet,,CHECK
+,,Psionic,,CHECK
+,,Rival,,CHECK
+,,Ship,,CHECK
+,,System,,CHECK
+,,Token,,CHECK
+,,,,
+,Passage Storms,Court Deck,F2206,CHECK
+,,Crisis,,CHECK
+,,Hit,,CHECK
+,,Initiative,,CHECK
+,,Move,,CHECK
+,,Piece,,CHECK
+,,Planet,,CHECK
+,,Secure,,CHECK
+,,,,
+Conspirator,C,,,
+Police Victory,Foiling Conspiracies,Rival,F2305,
+,,Secure,,
+,,Vox,,
+,,Agent,,
+,,,,
+Judge,C,,,
+Alternate Victory,Judge Act III Objective,Ambitions,F2401B,
+,,Chapter,,
+,,Objective,,
+,,Power,,
+,,Resource,,
+,,,,
+,Vow of Fairness,Captives,F2402,
+,,Loyal,,
+,,Piece,,
+,,Raid,,
+,,Trophies,,
+,,,,
+,The Arbiter,Captives,F2403,
+,,Loyal,,
+,,Piece,,
+,,Resource,,
+,,Resource Slots,,
+,,Rival,,
+,,Trophies,,
+,,,,
+,Judge's Chosen,Battle,F2404,
+,,Control,,
+,,Loyal,,
+,,Piece,,
+,,Rival,,
+,,Ship,,
+,,System,,
+,,,,
+,,,,
+,Judge Sets Agenda,Ambition Marker,F2405,
+,,Power,,
+,,Rival,,
+,,Second Place,,

@@ -1,0 +1,156 @@
+Mechanic Name,Where,Tags,Usage
+Act,Campaign,Act,5
+Armor,Campaign,Battle,2
+Attach,Campaign,"Attach, Court Card",4
+Attached Card,Campaign,"Attach, Court Card",0
+Blight,Campaign,"Blight, Piece, Map",23
+Call to Order,Campaign,Summit,2
+Imperial Fleet,Campaign,"Empire, Ship, Map, Imperial Ship",2
+Crisis,Campaign,"Crisis, Event",36
+Edict,Campaign,"Edict, Event, Imperial Council",7
+Event Cards,Campaign,"Event, Action Card",0
+Event Die,Campaign,"Event, Dice",3
+Empire,Campaign,Empire,23
+Joining Empire,Campaign,"Empire, Summit",0
+Leaving Empire,Campaign,Empire,0
+Fate,Campaign,Fate,7
+Favor,Campaign,"Favor, Summit, Event",8
+Flagship,Campaign,"Flagship, Fate",18
+First Regent,Campaign,"Empire, Title",16
+Final Objectives,Campaign,"Objectives, Game Structure",0
+Free States,Campaign,"Free State, Map, Piece, City, Starport",0
+Free City,Campaign,"Free State, Map, Piece, City",10
+Free Starport,Campaign,"Free State, Map, Piece, Starport",0
+Free Building,Campaign,"Free State, Map, Piece, City, Starport",4
+Frozen Resource,Campaign,Resource,1
+Govern the Imperial Reach,Campaign,"Edict, Event, Empire, Resource, Imperial Trust",2
+Grand Ambitions,Campaign,"Ambition, Fate",2
+Harm,Campaign,"Battle, Damage, Destroy, Hit",19
+Imperial Policy,Campaign,"Empire, Edict, Imperial Action",3
+Imperial Action,Campaign,"Empire, Edict, Imperial Policy",0
+Imperial Council,Campaign,"Empire, Court",3
+Imperial Demand,Campaign,"Empire, Imperial Trust, Resource",0
+Imperial Laws,Campaign,"Empire, Control, Action, Move, Battle, Tax, Catapult, Harm, Outlaw",2
+Imperial Ships,Campaign,"Empire, Piece, Ship",7
+Imperial Trust,Campaign,"Empire, Imperial Demand, Resource",5
+Imperial Regent,Campaign,"Empire, Title",3
+Lore,Campaign,Lore,5
+Negotiation Action,Campaign,"Summit, Favor, Control, Court, Captive, Trophy, Favor, Resource, Empire",3
+Number Die,Campaign,"Event, Dice",2
+Objective,Campaign,Objective,14
+Objective Card,Campaign,Objective,2
+Outlaw,Campaign,Title,18
+Protected Guild Cards,Campaign,Guild Card,4
+Guild Card Suit,Campaign,Guild Card,2
+Resettling Flagships,Campaign,Flagship,0
+Record Sheets,Campaign,Record Sheet,0
+Resolution Cards,Campaign,Fate,0
+Rules Booklet,Campaign,Rules Booklet,1
+Scrap,Campaign,Scrap,29
+Summit,Campaign,"Summit, Event",17
+Title,Campaign,Title,4
+Token,Campaign,Piece,27
+Tough,Campaign,"Piece, Harm",2
+Upgrade,Campaign,"Flagship, Starport, City",4
+Winning Ambitions,Campaign,Ambition,8
+Building Hats,Campaign,"Piece, City, Starport",0
+Battle,Base,"Battle, Action",21
+Build,Base,"Build, Action",27
+Influence,Base,"Influence, Action",13
+Move,Base,"Move, Action",25
+Repair,Base,"Repair, Action",10
+Secure,Base,"Secure, Action",38
+Tax,Base,"Tax, Action",20
+Agent,Base,Agent,30
+Influence Agent,Base,"Influence, Agent",4
+Bury,Base,Bury,0
+Action Card,Base,Action Card,24
+Construction Suit,Base,Action Card,1
+Administration Suit,Base,Action Card,0
+Aggression Suit,Base,Action Card,0
+Mobilization Suit,Base,Action Card,0
+Adjacency,Base,Map,0
+Ambition,Base,Ambition,1
+Tycoon Ambition,Base,Ambition,4
+Tyrant Ambition,Base,Ambition,2
+Warlord Ambition,Base,Ambition,6
+Keeper Ambition,Base,Ambition,3
+Empath Ambition,Base,Ambition,3
+Undeclared Ambition,Base,Ambition,1
+Declare Ambition,Base,Ambition,7
+Score Ambition,Base,Ambition,1
+Ambition Box,Base,Ambition,8
+Ambition Marker,Base,Ambition,4
+Second Place,Base,Ambition,5
+Resource,Base,Resource,55
+Resource Supply,Base,Resource,6
+Resource Spend,Base,Resource,1
+Resource Gain,Base,Resource,1
+Material,Base,Resource,12
+Fuel,Base,Resource,12
+Weapon,Base,Resource,19
+Relic,Base,Resource,11
+Psionic,Base,Resource,18
+Captives,Base,Captive,20
+Taking Captives,Base,Captive,0
+Returning Captives,Base,Captive,1
+City,Base,City,27
+City Power Bonus,Base,City,0
+Resource Slots,Base,Resource,11
+Taking Resources from Cities,Base,"Resource, City",0
+Cluster,Base,Map,28
+Control,Base,Control,64
+Building Damaged Control,Base,Control,0
+Catapult Move Control,Base,Control,0
+Taxing Rivals Control,Base,"Control, Rival, Tax",0
+Court,Base,Court,5
+Court Card,Base,"Court, Court Card, Court Deck",2
+Court Deck,Base,"Court, Court Deck",10
+Placing Agents on Court,Base,Court,0
+Ransacking the Court,Base,Court,0
+Securing Cards from the Court,Base,Court,0
+Damage,Base,Damage,17
+Damage/Control,Base,Damage,0
+Dealing and Taking Damage,Base,Damage,0
+Dice,Base,Dice,4
+Dice Symbols,Base,Dice,0
+Gates,Base,Map,4
+Guild Card,Base,Guild Card,30
+Hit,Base,"Dice, Map",9
+Initiative,Base,Initiative,9
+Round End Initiative,Base,Initiative,0
+Passing Initiative,Base,Initiative,0
+Seizing Initiative,Base,Initiative,0
+Intercept,Base,"Dice, Battle",0
+Map,Base,Map,23
+Outrage,Base,Outrage,39
+Provoke Outrage,Base,Outrage,18
+Building Pieces,Base,Build,0
+Destroy,Base,Battle,1
+Piece,Base,Piece,22
+Piece Limits,Base,Piece,0
+Planet,Base,Map,42
+Power,Base,Power,33
+Prelude,Base,Prelude,1
+Prelude Action,Base,Prelude,1
+Raid,Base,Raid,13
+Raid Cost,Base,Raid,1
+Dice Limits of Raiding,Base,Raid,0
+Loyal,Base,Piece,52
+Rival,Base,"Rival, Player",63
+Starport,Base,"Starport, Pieces",6
+Building ships with Starports,Base,Starport,0
+Catapult,Base,"Starport, Move",10
+System,Base,Map,38
+Tiebreakers,Base,Game Structure,0
+Trophies,Base,Trophy,17
+Warlord Scoring Trophies,Base,"Warlord, Trophy",0
+Taking Trophies,Base,Trophy,0
+Returning Trophies,Base,Trophy,0
+Ship,Base,Ship,53
+Chapter,Base,Game Structure,26
+Ending a Chapter,Base,Game Structure,0
+Vox,Base,Court Deck,1
+Action Discard Pile,Base,Action Card,0
+Surpass,Base,Action Card,1
+Pivot,Base,Action Card,1

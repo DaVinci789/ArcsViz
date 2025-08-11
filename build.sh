@@ -1,0 +1,1 @@
+gcc -g -Llib lib/microui.c lib/murl.c main.c -std=gnu23 -o main.exe -lraylib -mconsole -lraylib -luser32 -lgdi32 -lwinmm -lshell32 -ladvapi32 -lole32 -loleaut32 -lkernel32 -lcomdlg32 -luuid -lwinspool -lopengl32 -lglu32
