@@ -1,0 +1,1 @@
+emcc -o build/index.html main.c lib/wasm/libraylib.a lib/microui.c lib/murl.c -s USE_GLFW=3 -s ASYNCIFY --shell-file shell.html --preload-file cards -s TOTAL_STACK=64MB -s ALLOW_MEMORY_GROWTH -s ASSERTIONS -DPLATFORM_WEB -Wc23-extensions

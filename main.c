@@ -214,7 +214,7 @@ int main(void)
         perm.beg = malloc(1 << 30);
         perm.end = perm.beg + (1 << 30);
 
-	SetConfigFlags(FLAG_WINDOW_RESIZABLE);
+	SetConfigFlags(FLAG_WINDOW_RESIZABLE | FLAG_VSYNC_HINT);
 	InitWindow(800, 600, "ArcsViz");
 
 	default_texture = LoadTexture("cards/content/card-images/arcs/en-US/EVENT01.png");
