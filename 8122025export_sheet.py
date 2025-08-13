@@ -88,79 +88,82 @@ for row in rows:
                         pair_matrix[ai][bi].append(game_item)
             in_game_item = False
 
-# --------------------------------------------------
-# Create Game_Item_Output sheet (upper triangle only) and track cell positions
-# --------------------------------------------------
+# Create Game_Item_Output sheet and store pair label cell positions
 remove_sheet_by_name(doc, "Game_Item_Output")
 game_item_table = Table(name="Game_Item_Output")
-pair_positions = {}  # map "A x B" -> cell address
+
+pair_positions = {}  # map "A x B" -> cell address string e.g. "A5"
 
 current_row_index = 0
 for i in range(1, len(pair_matrix)):
-    for j in range(i + 1, len(pair_matrix[i])):  # upper triangle only
-        mech_i = mechanics[i - 1]
-        mech_j = mechanics[j - 1]
-        items = pair_matrix[i][j]
-        pair_text = f"{mech_i} x {mech_j}"
+    for j in range(1, len(pair_matrix[i])):
+        if i != j:
+            mech_i = mechanics[i - 1]
+            mech_j = mechanics[j - 1]
+            items = pair_matrix[i][j]
 
-        # Row with pair name and first item (if any)
-        tr = TableRow()
-        tc_pair = TableCell()
-        tc_pair.addElement(P(text=pair_text))
-        tr.addElement(tc_pair)
+            pair_text = f"{mech_i} x {mech_j}"
 
-        if items:
-            first_item_cell = TableCell()
-            first_item_cell.addElement(P(text=items[0].name))
-            tr.addElement(first_item_cell)
-
-        game_item_table.addElement(tr)
-
-        # Save cell address of the pair name
-        col_letter = col_index_to_letter(0)  # always column A
-        row_number = current_row_index + 1  # spreadsheet rows start at 1
-        pair_positions[pair_text] = f"{col_letter}{row_number}"
-        current_row_index += 1
-
-        # Additional rows for extra items
-        for game_item in items[1:]:
             tr = TableRow()
-            tr.addElement(TableCell())  # blank under pair column
-            tc_item = TableCell()
-            tc_item.addElement(P(text=game_item.name))
-            tr.addElement(tc_item)
+            tc_pair = TableCell()
+            tc_pair.addElement(P(text=pair_text))
+            tr.addElement(tc_pair)
+
+            if items:
+                first_item_cell = TableCell()
+                first_item_cell.addElement(P(text=items[0].name))
+                tr.addElement(first_item_cell)
+
             game_item_table.addElement(tr)
+
+            # Save the cell address of pair label: columns are 0-based, row also 0-based
+            # The pair label is always in column 0 of this row
+            col_letter = col_index_to_letter(0)  # always 'A'
+            row_number = current_row_index + 1  # Calc rows start at 1
+            cell_address = f"{col_letter}{row_number}"
+            pair_positions[pair_text] = cell_address
+
             current_row_index += 1
+
+            # Add following rows for extra items
+            for game_item in items[1:]:
+                tr = TableRow()
+                tr.addElement(TableCell())  # empty pair cell
+                tc_item = TableCell()
+                tc_item.addElement(P(text=game_item.name))
+                tr.addElement(tc_item)
+                game_item_table.addElement(tr)
+                current_row_index += 1
 
 doc.spreadsheet.addElement(game_item_table)
 
-# --------------------------------------------------
-# Create Game_Item_Count_Output sheet (upper triangle only)
-# --------------------------------------------------
+# Create above, but just counts
+
 remove_sheet_by_name(doc, "Game_Item_Count_Output")
 game_item_count_table = Table(name="Game_Item_Count_Output")
 
 for i in range(1, len(pair_matrix)):
-    for j in range(i + 1, len(pair_matrix[i])):  # upper triangle only
-        mech_i = mechanics[i - 1]
-        mech_j = mechanics[j - 1]
-        items = pair_matrix[i][j]
+    for j in range(1 + 1, len(pair_matrix[i])):
+        if i != j:
+            mech_i = mechanics[i - 1]
+            mech_j = mechanics[j - 1]
+            items = pair_matrix[i][j]
 
-        tr = TableRow()
-        tc_pair = TableCell()
-        tc_pair.addElement(P(text=f"{mech_i} x {mech_j}"))
-        tr.addElement(tc_pair)
+            pair_text = f"{mech_i} x {mech_j}"
 
-        tc_count = TableCell(valuetype="float", value=float(len(items)))
-        tr.addElement(tc_count)
+            tr = TableRow()
+            tc_pair = TableCell()
+            tc_pair.addElement(P(text=pair_text))
+            tr.addElement(tc_pair)
 
-        game_item_count_table.addElement(tr)
+            first_item_cell = TableCell(valuetype="float", value=len(items))
+            tr.addElement(first_item_cell)
+
+            game_item_count_table.addElement(tr)
 
 doc.spreadsheet.addElement(game_item_count_table)
 
-# --------------------------------------------------
-# Create Mechanic_Pair_Output with hyperlinks to Game_Item_Output cells
-# --------------------------------------------------
+# Create Mechanic_Pair_Output sheet with hyperlinks pointing to Game_Item_Output cells
 remove_sheet_by_name(doc, "Mechanic_Pair_Output")
 
 header_row = [""] + mechanics
@@ -171,17 +174,15 @@ for i, mech_i in enumerate(mechanics):
     for j, mech_j in enumerate(mechanics):
         if i == j:
             row.append("")
-        elif j > i:  # only upper triangle
+        else:
             pair_text = f"{mech_i} x {mech_j}"
             target_cell = pair_positions.get(pair_text)
             if target_cell:
                 link = f'#Game_Item_Output.{target_cell}'
                 formula = f'=HYPERLINK("{link}"; {len(pair_matrix[i + 1][j + 1])})'
-                row.append({"formula": formula})
+                row.append({"formula": formula, "text": "View"})
             else:
                 row.append("")
-        else:
-            row.append("")  # keep grid shape
     pair_matrix_with_links.append(row)
 
 def create_sheet_with_links(sheet_name, data):
@@ -190,7 +191,13 @@ def create_sheet_with_links(sheet_name, data):
         tr = TableRow()
         for cell_data in row_data:
             if isinstance(cell_data, dict) and "formula" in cell_data:
-                tr.addElement(TableCell(formula=cell_data["formula"]))
+                tc = TableCell(valuetype="float", formula=cell_data["formula"])
+                # tc.addElement(P(text=cell_data["text"]))
+                tr.addElement(tc)
+            elif isinstance(cell_data, str):
+                tc = TableCell()
+                tc.addElement(P(text=cell_data))
+                tr.addElement(tc)
             else:
                 tc = TableCell()
                 tc.addElement(P(text=str(cell_data)))
